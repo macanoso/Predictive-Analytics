@@ -1,4 +1,4 @@
-# Repositorio para evaluación de cursos
+# Repositorio de evaluación de curso
 
 Para los notebooks que tienen solución en los comentarios ejecute
 
